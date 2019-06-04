@@ -2,7 +2,7 @@
   "name": "react-div-100vh",
   "version": "0.3.4",
   "description": "A React component that aims to solve '100vh' issue in mobile browsers",
-  "main": "lib/index.js",
+  "main": "src/lib/index.js",
   "scripts": {
     "dev": "concurrently \"npm run lib:watch\" \"npm run docs\"",
     "lib": "babel src/lib -d lib --copy-files",
